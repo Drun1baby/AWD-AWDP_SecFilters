@@ -21,3 +21,7 @@ select|sleep|extractvalue|updatexml|floor|sleep|table|flag|union|update|and|or|d
 # 更新于 2024/5/6
 
 更新了 php 部分的 filter
+
+# update 2024.10.17
+
+更新新的一批 Filter
